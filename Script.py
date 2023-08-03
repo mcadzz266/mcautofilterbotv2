@@ -189,7 +189,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """"
+    CAPTION = """
 📂 <b>File Name</b>: <code>{file_name}</code> 
 
 ❤️‍🔥 </b>Join</b> [MOVIE COMPLEX](https://t.me/moviecomplexofficialgroup)  
